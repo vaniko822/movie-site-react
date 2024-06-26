@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+# Movie site
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## აღწერა
+საიტი არის ფილმების თემაზე გაკეთებული. იგი დაწერილია რეაქთზე და გამოყენებული სხვადასხვა უახლესი ტექნოლოგიები.
 
-## Available Scripts
+## გამოყენებული ტექნოლოგიები
+- React
+- React Router
+- React Hooks
+- Custom Hooks
+- Axios
+- React Hook Form
+- Yup
+- Framer Motion
+- Sass
+- Local Storage
+- Slider
 
-In the project directory, you can run:
+## Features
+- Dark/Light theme switch
+- Form validation
+- API integration
+- Animations
 
-### `npm start`
+## გაშვების ინსტრუქცია
+1. ვქმნით ფაილს, სადაც დავფულავთ პროექტს.
+2. ვუშვებ git bashს შექმნიტ ფაილში.
+3. ვუშვებთ ქომანდებს:
+   git init
+   git remote add origin https://github.com/vaniko822/movie-site-react.git
+   git pull origin master
+4. ფაილს ვხსნით VS Codeში
+5. ვუშვებთ ტერმინალს და ვუშვებთ ქომანდებს:
+   cd movie-site-react (უნდა ვიყოთ პროექტის საქაღალდეში)
+   npm install
+   npm start
+6. enjoy
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## გვერდების სქრინშოთები
+1. მთავარი გვერდი
+![home](https://github.com/vaniko822/movie-site-react/assets/83824294/77c6bd36-33af-4cb7-a41f-3bf0ef523ee5)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. ფილმების გვერდი
+![movie1](https://github.com/vaniko822/movie-site-react/assets/83824294/247a549b-5eff-4737-acda-58659bf3abc2)
+![movie2](https://github.com/vaniko822/movie-site-react/assets/83824294/3e997f15-e12d-446b-9b7e-6894e920cb7f)
 
-### `npm test`
+3. კონტაქტის გვერდი
+![contact](https://github.com/vaniko822/movie-site-react/assets/83824294/81b28814-7aa3-4685-839c-12726b18776c)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
