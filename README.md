@@ -3,6 +3,10 @@
 ## აღწერა
 საიტი არის ფილმების თემაზე გაკეთებული. იგი დაწერილია რეაქთზე და გამოყენებული სხვადასხვა უახლესი ტექნოლოგიები.
 
+## ლინკები
+საიტის ლინკი: https://vaniko822.github.io/movie-site-react/
+Github-ის ლინკი: https://github.com/vaniko822/movie-site-react
+
 ## გამოყენებული ტექნოლოგიები
 - React
 - React Router
